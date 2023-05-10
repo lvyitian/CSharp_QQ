@@ -1,0 +1,8 @@
+C:\Users\吕易天\Documents\SharpDevelop Projects\QQ C#\QQ C#\obj\Debug\QQ C#.csprojResolveAssemblyReference.cache
+C:\Users\吕易天\Documents\SharpDevelop Projects\QQ C#\QQ C#\bin\Debug\QQ C#.exe.config
+C:\Users\吕易天\Documents\SharpDevelop Projects\QQ C#\QQ C#\bin\Debug\QQ C#.exe
+C:\Users\吕易天\Documents\SharpDevelop Projects\QQ C#\QQ C#\bin\Debug\QQ C#.pdb
+C:\Users\吕易天\Documents\SharpDevelop Projects\QQ C#\QQ C#\obj\Debug\QQ C#.exe
+C:\Users\吕易天\Documents\SharpDevelop Projects\QQ C#\QQ C#\obj\Debug\QQ C#.pdb
+C:\Users\吕易天\Documents\SharpDevelop Projects\QQ C#\QQ C#\obj\Debug\QQ_C_.MainForm.resources
+C:\Users\吕易天\Documents\SharpDevelop Projects\QQ C#\QQ C#\obj\Debug\QQ C#.csproj.GenerateResource.Cache
